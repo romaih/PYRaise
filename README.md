@@ -1,2 +1,2 @@
-# PYRaise
+# Python-exercises
 Python Practices
